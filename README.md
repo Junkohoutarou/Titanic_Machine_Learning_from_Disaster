@@ -52,15 +52,14 @@ This project aims to apply machine learning techniques to a real-world dataset, 
 After evaluating multiple models, the Gradient Boosting classifier has been selected as the final model due to its superior performance. The precision, recall, and F1-score metrics indicate that the model performs well in predicting survival outcomes.
 
 ### Model Evaluation:
-- **Precision (Class 0 - Not Survived):** 81%
-- **Precision (Class 1 - Survived):** 69%
-- **Recall (Class 0):** 81%
-- **Recall (Class 1):** 70%
-- **F1-score (Class 0):** 81%
-- **F1-score (Class 1):** 69%
-- **Accuracy:** 77%
-- **Macro Avg Precision, Recall, F1-score:** 75%
-- **Weighted Avg Precision, Recall, F1-score:** 77%
+| Metric           | Class 0 (Not Survived) | Class 1 (Survived) | Overall |
+|------------------|------------------------|--------------------|---------|
+| Precision        | 89%                    | 88%                |         |
+| Recall           | 96%                    | 72%                |         |
+| F1-score         | 92%                    | 79%                |         |
+| Accuracy         |                        |                    | 89%     |
+| Macro Avg        | 89%                    | 84%                | 86%     |
+| Weighted Avg     | 89%                    | 89%                | 88%     |
 
 ### Next Steps:
 The next steps involve refining the model further, potentially tuning hyperparameters, and deploying the model for real-world predictions. Additional analysis and improvements can be made based on the specific requirements and goals of the application.
