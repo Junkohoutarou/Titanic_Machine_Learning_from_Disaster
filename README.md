@@ -46,7 +46,7 @@ The dataset contains information about passengers on the Titanic, including feat
 3. **Code Repository:** [GitHub repository](https://github.com/) with well-organized and version-controlled code.
 
 ## Conclusion:
-This project aims to apply machine learning techniques to a real-world dataset, making predictions about the survival of passengers on the Titanic. The outcome will serve as a demonstration of data exploration, preprocessing, feature engineering, data  model selection, and evaluation processes in a typical machine learning project.
+This project aims to apply machine learning techniques to a real-world dataset, making predictions about the survival of passengers on the Titanic. The outcome will serve as a demonstration of data exploration, preprocessing, feature engineering, data wrangling  model selection, and evaluation processes in a typical machine learning project.
 
 ## Chosen Model: Gradient Boosting
 After evaluating multiple models, the Gradient Boosting classifier has been selected as the final model due to its superior performance. The precision, recall, and F1-score metrics indicate that the model performs well in predicting survival outcomes.
