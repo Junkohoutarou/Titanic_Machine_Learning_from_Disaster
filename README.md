@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Titanic - Machine Learning from Disaster
 
 ## Objective:
 The objective of this project is to predict the survival outcome of passengers on the Titanic using machine learning techniques. The sinking of the Titanic in 1912 is one of the most infamous shipwrecks in history. This project involves exploring and analyzing the provided dataset, preparing the data for machine learning models, and implementing various classification algorithms to predict whether a passenger survived or not.
