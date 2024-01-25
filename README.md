@@ -19,7 +19,7 @@ The dataset contains information about passengers on the Titanic, including feat
 3. **Data Preprocessing:** Encode categorical variables, scale numerical features, and handle any remaining missing values.
 4. **Feature Selection:** Use feature importance techniques or dimensionality reduction methods to select relevant features.
 5. **Model Selection:** Experiment with a variety of classification algorithms:
-    - [Gradient Boosting](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
+    - [Gradient Boosting Classifier](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
     - [Random Forest](https://scikit-learn.org/stable/modules/ensemble.html#random-forests)
     - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
     - [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
@@ -49,7 +49,7 @@ The dataset contains information about passengers on the Titanic, including feat
 ## Conclusion:
 This project aims to apply machine learning techniques to a real-world dataset, making predictions about the survival of passengers on the Titanic. The outcome will serve as a demonstration of data exploration, preprocessing, feature engineering, data wrangling  model selection, and evaluation processes in a typical machine learning project.
 
-## Chosen Model: Gradient Boosting
+## Chosen Model: Gradient Boosting Classifier
 After evaluating multiple models, the Gradient Boosting classifier has been selected as the final model due to its superior performance. The precision, recall, and F1-score metrics indicate that the model performs well in predicting survival outcomes.
 
 ### Model Evaluation:
